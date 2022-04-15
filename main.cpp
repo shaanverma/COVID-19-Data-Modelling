@@ -15,7 +15,7 @@ int main()
 {
     string userFile,statCount,order,checker, topBottom;
     cout << "#####################################################################################\n" << endl;
-    cout << "CS 3307 ASSIGNMENT #1: COVID-19 DATA ANALYZER\n" << endl;
+    cout << "COVID-19 DATA ANALYZER\n" << endl;
     cout << "#####################################################################################" << endl;
     cout << "\nPLEASE INPUT A CSV FILE" << endl;
     cout << "FILENAME: ";
@@ -38,7 +38,7 @@ int main()
         while(true)
         {
             cout << "\nPLEASE SELECT A STATISTICAL COUNT:" << endl;
-            cout << "\n\"new confirmed cases\"  \"new deaths\"  \"new recovered cases" << endl;
+            cout << "\n\"new confirmed cases\"  \"new deaths\"  \"new recovered cases\"" << endl;
             cout << "\n\"total confirmed cases\"  \"total deaths\"  \"total recovered cases\"" << endl;
             cout << "\nSTAT COUNT: ";
             getline(cin, statCount);
