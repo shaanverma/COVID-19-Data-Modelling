@@ -1,1 +1,2 @@
 theme: jekyll-theme-tactile
+show_downloads: [true or "false" (unquoted) to indicate whether to provide a download URL]
