@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# COVID-19 DATA-MODELLING
+## About
+Visualizing worldwide COVID-19 datasets in real time to determine useful statistics and information
 
-You can use the [editor on GitHub](https://github.com/shaanverma/COVID-19-Data-Modelling/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Compiling, Linking, and Running Instructions
+----------------------------------------------------------------------------------------
+- To operate program, place header and cpp files in correct location (or in the same directory)
+- Build and run main.cpp, wait for prompts
 
-### Markdown
+## Demonstration
+Place a walkthrough of the program
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Step 1:
+![alt text](images/Step1.png "Step1")
 
-```markdown
-Syntax highlighted code block
+#### Step 2:
+![alt text](images/Step2.png "Step2")
 
-# Header 1
-## Header 2
-### Header 3
+#### Step 3:
+![alt text](images/Step3.png "Step3")
 
-- Bulleted
-- List
+#### Step 4:
+![alt text](images/Step4.png "Step4")
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaanverma/COVID-19-Data-Modelling/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Step 5:
+![alt text](images/Step5.png "Step5")
