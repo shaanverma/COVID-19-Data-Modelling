@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 url: shaanverma.github.io
 baseurl: /COVID-19-Data-Modelling
+show_downloads: [true or "false" (unquoted) to indicate whether to provide a download URL]
