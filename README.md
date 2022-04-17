@@ -1,6 +1,4 @@
 # COVID-19 DATA-MODELLING
-## About
-Give a summary of the project
 
 ## Compiling, Linking, and Running Instructions
 ----------------------------------------------------------------------------------------
@@ -8,7 +6,6 @@ Give a summary of the project
 - Build and run main.cpp, wait for prompts
 
 ## Demonstration
-Place a walkthrough of the program
 
 #### Step 1:
 ![alt text](images/Step1.png "Step1")
